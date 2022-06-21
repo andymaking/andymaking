@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+![Cover](https://github.com/andymaking/andymaking/blob/master/Assets/banner2.jpg)
+
+
+[![HitCount](http://hits.dwyl.com/andymaking/andymaking.svg)](http://hits.dwyl.com/andymaking/andymaking)
+ <img src="https://komarev.com/ghpvc/?username=andymaking">
+
 ## Languages
 
 ![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
