@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-![Cover](https://github.com/andymaking/andymaking/blob/master/Assets/banner2.jpg)
-
-
-[![HitCount](http://hits.dwyl.com/andymaking/andymaking.svg)](http://hits.dwyl.com/andymaking/andymaking)
  <img src="https://komarev.com/ghpvc/?username=andymaking">
 
 ## Languages
@@ -15,6 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
+![Flutter](https://img.shields.io/badge/-SQL-000000?style=flat&logo=flutter)
 
 ## Tools:
 
