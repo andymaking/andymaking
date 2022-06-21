@@ -22,12 +22,12 @@
 
 ## Live Projects
 
-[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://tamimehsan.github.io/CPA)
+[![CPA](https://img.shields.io/badge/-CodeforceProfileAnalyzer-444444?style=flat&logo=codeforces)](https://andymaking.github.io/CPA)
 
 ## Github Overview
 
-<img align="left" alt="TamimEhsan's Github Stats" src="https://github-readme-stats.vercel.app/api?username=TamimEhsan&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TamimEhsan)](https://github.com/anuraghazra/github-readme-stats) 
+<img align="left" alt="andymaking's Github Stats" src="https://github-readme-stats.vercel.app/api?username=andymaking&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andymaking)](https://github.com/anuraghazra/github-readme-stats) 
 
 
 <!--
