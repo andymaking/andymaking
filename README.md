@@ -11,7 +11,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
-![Flutter](https://img.shields.io/badge/-SQL-000000?style=flat&logo=flutter)
+![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 
 ## Tools:
 
