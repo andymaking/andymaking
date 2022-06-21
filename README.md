@@ -1,14 +1,15 @@
 ### Hi there 👋
 
-## My Programming Performances
+## Languages
 
+![C++](https://img.shields.io/badge/-C++-000000?style=flat&logo=c%2B%2B)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS-000000?style=flat&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=mysql)
 
-⭐️ From [TamimEhsan](https://github.com/TamimEhsan)
-
-[website]: https://tamimehsan.github.io/
-[instagram]: https://instagram.com/tamim.ehsan
-[facebook]: https://www.facebook.com/tamimul.ehsan.9/
-[codeforces]:https://codeforces.com/profile/TamimEhsan
 
 <!--
 **andymaking/andymaking** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
