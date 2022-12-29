@@ -9,6 +9,9 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-000000?style=flat&logo=flutter)
 ![Dart](https://img.shields.io/badge/-Dart-000000?style=flat&logo=dart)
 ![REACT](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![KOTLIN](https://img.shields.io/badge/-Kotlin-000000?style=flat&logo=kolin)
+![JAVA](https://img.shields.io/badge/-Java-000000?style=flat&logo=java)
+![REACT-NATIVE](https://img.shields.io/badge/-ReactNative-000000?style=flat&logo=react-native)
 
 ## Tools:
 
